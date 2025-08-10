@@ -1,7 +1,6 @@
 # Pre-Requisite Examination – ES 335 Machine Learning
 
 This repository contains the solutions for the Pre-Requisite Examination of ES 335 (Machine Learning).
-- NumPy broadcasting and custom argmin
 
 ## Files
 - `pre_req.ipynb`: Main notebook with all questions and solutions
